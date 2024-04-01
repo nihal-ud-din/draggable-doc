@@ -1,4 +1,4 @@
-# using REACTJS and Tailwind framework
+# Using ReactJS and Tailwind framework
 
 <br>
 In this repo, Draggable icon based on ReactJS and Tailwind framework are available.
